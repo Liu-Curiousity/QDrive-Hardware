@@ -1,0 +1,26 @@
+# (白名单)默认不添加任何文件到版本控制(不能用*.*否则无法忽略文件夹)
+# 使用!添加文件夹时,需要!dir/,!dir/**两句,注意先后顺序
+*
+
+# 工程基础文件
+!*.PrjPcb
+!*.PrjPcbStructure
+!.gitignore
+!PDNAnalyzer_Config/
+!PDNAnalyzer_Config/**
+
+# 原理图文件
+!*.SchDoc
+
+# PCB文件
+!*.PcbDoc
+
+# 原理图库
+!*.SchLib
+
+# PCB库
+!*.PcbLib
+
+# 硬件相关文档
+!Doc/
+!Doc/**
