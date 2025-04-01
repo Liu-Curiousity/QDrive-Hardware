@@ -118,202 +118,90 @@ GenerateClassCluster=0
 DocumentUniqueId=THSCZJJU
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.G1
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.G2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.G2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GM
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GM
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for FOC-Lite\PCB1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for FOC-Lite\PCB1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument42]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument43]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
-DocumentPath=Project Outputs for FOC-Lite_G4\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for FOC-Lite\PCB1.TXT
 DItemRevisionGUID=
 
@@ -597,37 +485,35 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
@@ -635,35 +521,37 @@ OutputVariantName6=[No Variations]
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|DocumentPath=D:\Altium Designer\FOC-Lite\PDNAnalyzer_Output\PDN_Test\SimulationDummy.PcbDoc
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -672,7 +560,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=THSCZJJU|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=THSCZJJU|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1324,125 +1212,83 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=1.00mm连接器.SchLib
-ComponentDesignItemID0=Header 2
-ComponentSymbolReference0=Header 2
+ComponentLibraryIdentifier0=2.1 - STM32 G0及G4系列单片机.SchLib
+ComponentDesignItemID0=STM32G431CBU6
+ComponentSymbolReference0=STM32G431CBU6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=1.00mm连接器.SchLib
-ComponentDesignItemID1=Header 3
-ComponentSymbolReference1=Header 3
+ComponentLibraryIdentifier1=LDO.SchLib
+ComponentDesignItemID1=RT9013-33GB
+ComponentSymbolReference1=RT9013-33GB
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=1.00mm连接器.SchLib
-ComponentDesignItemID2=Header 5
-ComponentSymbolReference2=Header 5
+ComponentLibraryIdentifier2=电感.SchLib
+ComponentDesignItemID2=L-NR
+ComponentSymbolReference2=L-NR
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=2.4 - STM32 F1系列单片机.SchLib
-ComponentDesignItemID3=STM32F103CBU6
-ComponentSymbolReference3=STM32F103CBU6
+ComponentLibraryIdentifier3=电机驱动IC.SchLib
+ComponentDesignItemID3=DRV8300D
+ComponentSymbolReference3=DRV8300D
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=INA.SchLib
-ComponentDesignItemID4=INA226
-ComponentSymbolReference4=INA226
+ComponentLibraryIdentifier4=电源IC.SchLib
+ComponentDesignItemID4=JW5026
+ComponentSymbolReference4=JW5026
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=LDO.SchLib
-ComponentDesignItemID5=RT9013-33GB
-ComponentSymbolReference5=RT9013-33GB
+ComponentLibraryIdentifier5=二极管(含LED).SchLib
+ComponentDesignItemID5=LED
+ComponentSymbolReference5=LED
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=mLib.SchLib
-ComponentDesignItemID6=OLED-6432
-ComponentSymbolReference6=OLED-6432
+ComponentLibraryIdentifier6=接口.SchLib
+ComponentDesignItemID6=XT30(2+2)
+ComponentSymbolReference6=XT30(2+2)
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Schlib1.SchLib
-ComponentDesignItemID7=SN65HVD232D
-ComponentSymbolReference7=SN65HVD232D
+ComponentLibraryIdentifier7=其他.SchLib
+ComponentDesignItemID7=AS5047P
+ComponentSymbolReference7=AS5047P
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=电感.SchLib
-ComponentDesignItemID8=L-NR
-ComponentSymbolReference8=L-NR
+ComponentLibraryIdentifier8=三极管-MOS管.SchLib
+ComponentDesignItemID8=WSD3066DN33
+ComponentSymbolReference8=WSD3066DN33
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=电机驱动IC.SchLib
-ComponentDesignItemID9=FD6288
-ComponentSymbolReference9=FD6288
+ComponentLibraryIdentifier9=协议芯片.SchLib
+ComponentDesignItemID9=SIT3051
+ComponentSymbolReference9=SIT3051
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=电源IC.SchLib
-ComponentDesignItemID10=JW5026
-ComponentSymbolReference10=JW5026
+ComponentLibraryIdentifier10=运放.SchLib
+ComponentDesignItemID10=INA240
+ComponentSymbolReference10=INA240
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=二极管(含LED).SchLib
-ComponentDesignItemID11=1N4148
-ComponentSymbolReference11=1N4148
+ComponentLibraryIdentifier11=阻容.SchLib
+ComponentDesignItemID11=C
+ComponentSymbolReference11=C
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=二极管(含LED).SchLib
-ComponentDesignItemID12=SS??
-ComponentSymbolReference12=SS??
+ComponentLibraryIdentifier12=阻容.SchLib
+ComponentDesignItemID12=R
+ComponentSymbolReference12=R
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=接口.SchLib
-ComponentDesignItemID13=MR30
-ComponentSymbolReference13=MR30
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=接口.SchLib
-ComponentDesignItemID14=USB_Type-C_16P_F
-ComponentSymbolReference14=USB_Type-C_16P_F
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=晶振.SchLib
-ComponentDesignItemID15=XTAL-3P
-ComponentSymbolReference15=XTAL-3P
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=轻触开关.SchLib
-ComponentDesignItemID16=SW SMD-4x4
-ComponentSymbolReference16=SW SMD-4x4
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=三极管-MOS管.SchLib
-ComponentDesignItemID17=WSD3066DN33
-ComponentSymbolReference17=WSD3066DN33
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=阻容.SchLib
-ComponentDesignItemID18=C
-ComponentSymbolReference18=C
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=阻容.SchLib
-ComponentDesignItemID19=R
-ComponentSymbolReference19=R
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1456,11 +1302,11 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=1N4148
+ParameterName0=Ambient Temperature Range High
 ParameterUpdate0=1
-ParameterName1=1N4148W
+ParameterName1=Ambient Temperature Range Low
 ParameterUpdate1=1
-ParameterName2=1N4148WT
+ParameterName2=Automotive
 ParameterUpdate2=1
 ParameterName3=BOM名称
 ParameterUpdate3=1
@@ -1478,82 +1324,134 @@ ParameterName9=ComponentLink2Description
 ParameterUpdate9=1
 ParameterName10=ComponentLink2URL
 ParameterUpdate10=1
-ParameterName11=ComponentLink3Description
+ParameterName11=Continuous Drain Current (Id)
 ParameterUpdate11=1
-ParameterName12=ComponentLink3URL
+ParameterName12=Core Architecture
 ParameterUpdate12=1
-ParameterName13=Continuous Drain Current (Id)
+ParameterName13=Data Bus Width
 ParameterUpdate13=1
 ParameterName14=Data Rate
 ParameterUpdate14=1
-ParameterName15=DatasheetVersion
+ParameterName15=Description
 ParameterUpdate15=1
-ParameterName16=Description
+ParameterName16=Device
 ParameterUpdate16=1
-ParameterName17=Device
+ParameterName17=Device Class L1
 ParameterUpdate17=1
-ParameterName18=Drain Source On Resistance (RDS(on)@Vgs,Id)
+ParameterName18=Device Class L2
 ParameterUpdate18=1
-ParameterName19=Drain Source Voltage (Vdss)
+ParameterName19=Device Class L3
 ParameterUpdate19=1
-ParameterName20=Duplex
+ParameterName20=Digikey Description
 ParameterUpdate20=1
-ParameterName21=Gate Threshold Voltage (Vgs(th)@Id)
+ParameterName21=Drain Source On Resistance (RDS(on)@Vgs,Id)
 ParameterUpdate21=1
-ParameterName22=LCSC Part Name
+ParameterName22=Drain Source Voltage (Vdss)
 ParameterUpdate22=1
-ParameterName23=Library Reference
+ParameterName23=Duplex
 ParameterUpdate23=1
-ParameterName24=Manufacturer
+ParameterName24=Frequency
 ParameterUpdate24=1
-ParameterName25=Mounting Type
+ParameterName25=Gate Threshold Voltage (Vgs(th)@Id)
 ParameterUpdate25=1
-ParameterName26=Number of Drivers/Receivers
+ParameterName26=Height
 ParameterUpdate26=1
-ParameterName27=Operating Temperature
+ParameterName27=Interface
 ParameterUpdate27=1
-ParameterName28=Package / Case
+ParameterName28=LCSC Part Name
 ParameterUpdate28=1
-ParameterName29=PackageDescription
+ParameterName29=Lead Free
 ParameterUpdate29=1
-ParameterName30=PackageReference
+ParameterName30=Library Reference
 ParameterUpdate30=1
-ParameterName31=PackageVersion
+ParameterName31=Manufacturer
 ParameterUpdate31=1
-ParameterName32=Packaging
+ParameterName32=Manufacturer Part Number
 ParameterUpdate32=1
-ParameterName33=Part Status
+ParameterName33=Max Junction Temp
 ParameterUpdate33=1
-ParameterName34=Power Dissipation (Pd)
+ParameterName34=Max Supply Voltage
 ParameterUpdate34=1
-ParameterName35=Pricing 1
+ParameterName35=Memory Size
 ParameterUpdate35=1
-ParameterName36=Pricing 2
+ParameterName36=Memory Type
 ParameterUpdate36=1
-ParameterName37=Protocol
+ParameterName37=Min Supply Voltage
 ParameterUpdate37=1
-ParameterName38=RoHS
+ParameterName38=Mounting Type
 ParameterUpdate38=1
-ParameterName39=Stock
+ParameterName39=Number Of A/D Converters
 ParameterUpdate39=1
-ParameterName40=Supplier 1
+ParameterName40=Number Of Adc Channels
 ParameterUpdate40=1
-ParameterName41=Supplier 2
+ParameterName41=Number Of Cores
 ParameterUpdate41=1
-ParameterName42=Supplier Device Package
+ParameterName42=Number of Drivers/Receivers
 ParameterUpdate42=1
-ParameterName43=Supplier Footprint
+ParameterName43=Number Of I/Os
 ParameterUpdate43=1
-ParameterName44=Supplier Part Number 1
+ParameterName44=Number Of I2C Channels
 ParameterUpdate44=1
-ParameterName45=Supplier Part Number 2
+ParameterName45=Number Of Pwm Channels
 ParameterUpdate45=1
-ParameterName46=Type
+ParameterName46=Number Of Spi Channels
 ParameterUpdate46=1
-ParameterName47=Voltage - Supply
+ParameterName47=Number Of Timers/Counters
 ParameterUpdate47=1
-ParameterName48=属性
+ParameterName48=Number Of Uart Channels
 ParameterUpdate48=1
+ParameterName49=Number Of Usb Channels
+ParameterUpdate49=1
+ParameterName50=Octopart
+ParameterUpdate50=1
+ParameterName51=Operating Temperature
+ParameterUpdate51=1
+ParameterName52=Package
+ParameterUpdate52=1
+ParameterName53=Package / Case
+ParameterUpdate53=1
+ParameterName54=Packaging
+ParameterUpdate54=1
+ParameterName55=Part Status
+ParameterUpdate55=1
+ParameterName56=Power Dissipation (Pd)
+ParameterUpdate56=1
+ParameterName57=Pricing 1
+ParameterUpdate57=1
+ParameterName58=Pricing 2
+ParameterUpdate58=1
+ParameterName59=Protocol
+ParameterUpdate59=1
+ParameterName60=Ram Size
+ParameterUpdate60=1
+ParameterName61=RoHS
+ParameterUpdate61=1
+ParameterName62=Standoff Height
+ParameterUpdate62=1
+ParameterName63=Stock
+ParameterUpdate63=1
+ParameterName64=Supplier 1
+ParameterUpdate64=1
+ParameterName65=Supplier 2
+ParameterUpdate65=1
+ParameterName66=Supplier Device Package
+ParameterUpdate66=1
+ParameterName67=Supplier Footprint
+ParameterUpdate67=1
+ParameterName68=Supplier Part Number 1
+ParameterUpdate68=1
+ParameterName69=Supplier Part Number 2
+ParameterUpdate69=1
+ParameterName70=Temperature
+ParameterUpdate70=1
+ParameterName71=Temperature Range High
+ParameterUpdate71=1
+ParameterName72=Temperature Range Low
+ParameterUpdate72=1
+ParameterName73=Type
+ParameterUpdate73=1
+ParameterName74=Voltage - Supply
+ParameterUpdate74=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1632,221 +1530,230 @@ ModelType24=PCBLIB
 ModelName24=C2225_M
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=DFN8_L3.3_W3.3_P0.65
+ModelName25=DFN8_L3.0_W3.0_P0.65
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=MR30_FA
+ModelName26=DFN8_L3.3_W3.3_P0.65
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=MR30_FB
+ModelName27=LED 3528-2Pin
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=MR30_MA
+ModelName28=LED 5730-V
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=MR30_MB
+ModelName29=LED0402_B
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=MSOP10_L3.0_W3.0_P0.5
+ModelName30=LED0402_G
 ModelUpdate30=1
 ModelType31=PCBLIB
-ModelName31=NR2520
+ModelName31=LED0402_NS
 ModelUpdate31=1
 ModelType32=PCBLIB
-ModelName32=NR3010
+ModelName32=LED0402_R
 ModelUpdate32=1
 ModelType33=PCBLIB
-ModelName33=NR3012
+ModelName33=LED0402_W
 ModelUpdate33=1
 ModelType34=PCBLIB
-ModelName34=NR3015
+ModelName34=LED0402_Y
 ModelUpdate34=1
 ModelType35=PCBLIB
-ModelName35=NR4010
+ModelName35=LED0603_B
 ModelUpdate35=1
 ModelType36=PCBLIB
-ModelName36=NR4018
+ModelName36=LED0603_G
 ModelUpdate36=1
 ModelType37=PCBLIB
-ModelName37=NR4020
+ModelName37=LED0603_R
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=NR4026
+ModelName38=LED0603_W
 ModelUpdate38=1
 ModelType39=PCBLIB
-ModelName39=NR4030
+ModelName39=LED0603_Y
 ModelUpdate39=1
 ModelType40=PCBLIB
-ModelName40=NR5012
+ModelName40=LED0805_B
 ModelUpdate40=1
 ModelType41=PCBLIB
-ModelName41=NR5020
+ModelName41=LED0805_G
 ModelUpdate41=1
 ModelType42=PCBLIB
-ModelName42=NR5040
+ModelName42=LED0805_R
 ModelUpdate42=1
 ModelType43=PCBLIB
-ModelName43=NR6020
+ModelName43=LED0805_W
 ModelUpdate43=1
 ModelType44=PCBLIB
-ModelName44=NR6028
+ModelName44=LED0805_Y
 ModelUpdate44=1
 ModelType45=PCBLIB
-ModelName45=NR6045
+ModelName45=LED1206_B
 ModelUpdate45=1
 ModelType46=PCBLIB
-ModelName46=NR8040
+ModelName46=LED1206_G
 ModelUpdate46=1
 ModelType47=PCBLIB
-ModelName47=OLED-6432
+ModelName47=LED1206_R
 ModelUpdate47=1
 ModelType48=PCBLIB
-ModelName48=OLED-6432-H3
+ModelName48=LED1206_W
 ModelUpdate48=1
 ModelType49=PCBLIB
-ModelName49=OLED-6432-TOP
+ModelName49=LED1206_Y
 ModelUpdate49=1
 ModelType50=PCBLIB
-ModelName50=OSC-3215-3P
+ModelName50=NR2520
 ModelUpdate50=1
 ModelType51=PCBLIB
-ModelName51=QFN24_L4.0_W4.0_P0.5
+ModelName51=NR3010
 ModelUpdate51=1
 ModelType52=PCBLIB
-ModelName52=QFN48_L7.0_W7.0_P0.5
+ModelName52=NR3012
 ModelUpdate52=1
 ModelType53=PCBLIB
-ModelName53=R01005_NS
+ModelName53=NR3015
 ModelUpdate53=1
 ModelType54=PCBLIB
-ModelName54=R0201_L
+ModelName54=NR4010
 ModelUpdate54=1
 ModelType55=PCBLIB
-ModelName55=R0201_M
+ModelName55=NR4018
 ModelUpdate55=1
 ModelType56=PCBLIB
-ModelName56=R0201_NS
+ModelName56=NR4020
 ModelUpdate56=1
 ModelType57=PCBLIB
-ModelName57=R0402_L
+ModelName57=NR4026
 ModelUpdate57=1
 ModelType58=PCBLIB
-ModelName58=R0402_M
+ModelName58=NR4030
 ModelUpdate58=1
 ModelType59=PCBLIB
-ModelName59=R0402_NS
+ModelName59=NR5012
 ModelUpdate59=1
 ModelType60=PCBLIB
-ModelName60=R0603_L
+ModelName60=NR5020
 ModelUpdate60=1
 ModelType61=PCBLIB
-ModelName61=R0603_M
+ModelName61=NR5040
 ModelUpdate61=1
 ModelType62=PCBLIB
-ModelName62=R0603_NS
+ModelName62=NR6020
 ModelUpdate62=1
 ModelType63=PCBLIB
-ModelName63=R0805_L
+ModelName63=NR6028
 ModelUpdate63=1
 ModelType64=PCBLIB
-ModelName64=R0805_M
+ModelName64=NR6045
 ModelUpdate64=1
 ModelType65=PCBLIB
-ModelName65=R0805_NS
+ModelName65=NR8040
 ModelUpdate65=1
 ModelType66=PCBLIB
-ModelName66=R1206_L
+ModelName66=QFN24_L4.0_W4.0_P0.5
 ModelUpdate66=1
 ModelType67=PCBLIB
-ModelName67=R1206_M
+ModelName67=QFN48_L7.0_W7.0_P0.5
 ModelUpdate67=1
 ModelType68=PCBLIB
-ModelName68=R1206_NS
+ModelName68=R01005_NS
 ModelUpdate68=1
 ModelType69=PCBLIB
-ModelName69=R1210_L
+ModelName69=R0201_L
 ModelUpdate69=1
 ModelType70=PCBLIB
-ModelName70=R1210_M
+ModelName70=R0201_M
 ModelUpdate70=1
 ModelType71=PCBLIB
-ModelName71=R1210_NS
+ModelName71=R0201_NS
 ModelUpdate71=1
 ModelType72=PCBLIB
-ModelName72=R1812_L
+ModelName72=R0402_L
 ModelUpdate72=1
 ModelType73=PCBLIB
-ModelName73=R1812_M
+ModelName73=R0402_M
 ModelUpdate73=1
 ModelType74=PCBLIB
-ModelName74=R2010_L
+ModelName74=R0402_NS
 ModelUpdate74=1
 ModelType75=PCBLIB
-ModelName75=R2010_M
+ModelName75=R0603_L
 ModelUpdate75=1
 ModelType76=PCBLIB
-ModelName76=R2512_L
+ModelName76=R0603_M
 ModelUpdate76=1
 ModelType77=PCBLIB
-ModelName77=R2512_M
+ModelName77=R0603_NS
 ModelUpdate77=1
 ModelType78=PCBLIB
-ModelName78=SH1.0-LT-2P
+ModelName78=R0805_L
 ModelUpdate78=1
 ModelType79=PCBLIB
-ModelName79=SH1.0-LT-3P
+ModelName79=R0805_M
 ModelUpdate79=1
 ModelType80=PCBLIB
-ModelName80=SH1.0-LT-5P
+ModelName80=R0805_NS
 ModelUpdate80=1
 ModelType81=PCBLIB
-ModelName81=SH1.0-WT-2P
+ModelName81=R1206_L
 ModelUpdate81=1
 ModelType82=PCBLIB
-ModelName82=SH1.0-WT-3P
+ModelName82=R1206_M
 ModelUpdate82=1
 ModelType83=PCBLIB
-ModelName83=SH1.0-WT-5P
+ModelName83=R1206_NS
 ModelUpdate83=1
 ModelType84=PCBLIB
-ModelName84=SMA
+ModelName84=R1210_L
 ModelUpdate84=1
 ModelType85=PCBLIB
-ModelName85=SMB
+ModelName85=R1210_M
 ModelUpdate85=1
 ModelType86=PCBLIB
-ModelName86=SMC
+ModelName86=R1210_NS
 ModelUpdate86=1
 ModelType87=PCBLIB
-ModelName87=SOD-123
+ModelName87=R1812_L
 ModelUpdate87=1
 ModelType88=PCBLIB
-ModelName88=SOD-123F
+ModelName88=R1812_M
 ModelUpdate88=1
 ModelType89=PCBLIB
-ModelName89=SOD-323
+ModelName89=R2010_L
 ModelUpdate89=1
 ModelType90=PCBLIB
-ModelName90=SOD-523
+ModelName90=R2010_M
 ModelUpdate90=1
 ModelType91=PCBLIB
-ModelName91=SOP8_L6.0_W5.0_P1.27
+ModelName91=R2512_L
 ModelUpdate91=1
 ModelType92=PCBLIB
-ModelName92=SOT23-5_L3.0_W1.7_P0.95
+ModelName92=R2512_M
 ModelUpdate92=1
 ModelType93=PCBLIB
-ModelName93=SOT23-6_L3.0_W1.7_P0.95
+ModelName93=R2512_NS
 ModelUpdate93=1
 ModelType94=PCBLIB
-ModelName94=SW SMD-3.5*3.55_90
+ModelName94=SOP8_L6.0_W5.0_P1.27
 ModelUpdate94=1
 ModelType95=PCBLIB
-ModelName95=SW SMD-4*4*1.5
+ModelName95=SOT23-5_L3.0_W1.7_P0.95
 ModelUpdate95=1
 ModelType96=PCBLIB
-ModelName96=USB_Type-C_SMD_16P_F
+ModelName96=SOT23-6_L3.0_W1.7_P0.95
 ModelUpdate96=1
+ModelType97=PCBLIB
+ModelName97=TSSOP14_L5.0_W4.4_P0.65
+ModelUpdate97=1
+ModelType98=PCBLIB
+ModelName98=TSSOP8_L4.4_W3.0_P0.65
+ModelUpdate98=1
+ModelType99=PCBLIB
+ModelName99=XT30(2+2)PW-M
+ModelUpdate99=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
