@@ -24,3 +24,6 @@
 # 硬件相关文档
 !Doc/
 !Doc/**
+
+# LICENSE
+!LICENSE
