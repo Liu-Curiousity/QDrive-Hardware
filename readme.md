@@ -6,7 +6,7 @@
 
 1. **制板**：
 
-   - 从[Release](https://github.com/Liu-Curiousity/QDrive-Software/releases)页面下载制版文件(gerber)即可发给板厂生产。
+   - 从[Release](https://github.com/Liu-Curiousity/QDrive-Hardware/releases)页面下载制版文件(gerber)即可发给板厂生产。
    - 如果你恰好财力雄厚，可以一并下载BOM表和贴片坐标文件，让板厂直接帮你贴片。
    - 自己贴片的话，由于元器件排布紧凑，没有留下元件编号丝印，要麻烦你对照着源文件贴片啦。
 
