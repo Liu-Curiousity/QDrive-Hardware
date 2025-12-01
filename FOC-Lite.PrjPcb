@@ -50,40 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NJGGMRSX
-
-[Document2]
-DocumentPath=PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KYISOYDO
-
-[Document3]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGYJSCBW
 
-[Document4]
+[Document2]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +410,7 @@ OutputDefault2=0
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Continuous Drain Current (Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#18=Name:Protocol,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#19=Name:Memory Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#20=Name:Supplier Footprint,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#21=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:2|Column#23=Name:Power Dissipation (Pd),Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#24=Name:Standoff Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#25=Name:Number Of Adc Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#26=Name:Drain Source Voltage (Vdss),Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#27=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#29=Name:Data Bus Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#31=Name:Memory Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#32=Name:Body,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:2|Column#33=Name:Number Of A/D Converters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#34=Name:Number Of Spi Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#35=Name:Number Of Pwm Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#36=Name:Digikey Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#37=Name:Number Of Timers/Counters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#38=Name:Device Class L2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#39=Name:Octopart,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#40=Name:LCSC Part Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Ambient Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#42=Name:Ram Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#43=Name:BOM名称,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#45=Name:Number Of Usb Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#46=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#47=Name:Number Of I/Os,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#49=Name:Core Architecture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#50=Name:Number Of I2C Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#51=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#52=Name:Number Of Uart Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#53=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#54=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#55=Name:Ambient Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#56=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#57=Name:Duplex,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#58=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#59=Name:Device Class L3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#60=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#61=Name:Device Class L1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#62=Name:Gate Threshold Voltage (Vgs(th)@Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#63=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#64=Name:Number Of Cores,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#65=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#66=Name:Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#67=Name:Automotive,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#68=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#69=Name:Max Junction Temp,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#70=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#71=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#72=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#73=Name:Drain Source On Resistance (RDS(on)@Vgs,Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#74=Name:属性,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
+Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Continuous Drain Current (Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#18=Name:Protocol,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#19=Name:Memory Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#20=Name:Supplier Footprint,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#21=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:2|Column#23=Name:Power Dissipation (Pd),Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#24=Name:Standoff Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#25=Name:Number Of Adc Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#26=Name:Drain Source Voltage (Vdss),Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#27=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#29=Name:Data Bus Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#31=Name:Memory Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#32=Name:Body,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:2|Column#33=Name:Number Of A/D Converters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#34=Name:Number Of Spi Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#35=Name:Number Of Pwm Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#36=Name:Digikey Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#37=Name:Number Of Timers/Counters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#38=Name:Device Class L2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#39=Name:Octopart,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#40=Name:LCSC Part Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Ambient Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#42=Name:Ram Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#43=Name:BOM名称,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#45=Name:Number Of Usb Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#46=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#47=Name:Number Of I/Os,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#49=Name:Core Architecture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#50=Name:Number Of I2C Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#51=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#52=Name:Number Of Uart Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#53=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#54=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#55=Name:Ambient Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#56=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#57=Name:Duplex,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#58=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#59=Name:Device Class L3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#60=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#61=Name:Device Class L1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#62=Name:Gate Threshold Voltage (Vgs(th)@Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#63=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#64=Name:Number Of Cores,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#65=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#66=Name:Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#67=Name:Automotive,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#68=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#69=Name:Max Junction Temp,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#70=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#71=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#72=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#73=Name:属性,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#74=Name:Drain Source On Resistance (RDS(on)@Vgs,Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
 OutputType3=Assembly
 OutputName3=Assembly Drawings
 OutputDocumentPath3=
@@ -559,7 +525,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD23\Templates\BOM Template Single Supplier.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CNY|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD23\Templates\BOM Template Single Supplier.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=2048|FormHeight=1106|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CNY|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
@@ -615,6 +581,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -901,6 +872,16 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -985,6 +966,12 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1148,6 +1135,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1196,8 +1187,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=二极管(含LED).SchLib
-ComponentDesignItemID0=SS??
-ComponentSymbolReference0=SS??
+ComponentDesignItemID0=PESD5V0F1BL
+ComponentSymbolReference0=PESD5V0F1BL
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1223,34 +1214,20 @@ ParameterName3=Description
 ParameterUpdate3=1
 ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=属性
-ParameterUpdate5=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SMA
+ModelName0=DFN1002-2L_L1.0_W0.6_P0.7
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SMB
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=SMC
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=SOD-123
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=SOD-323
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=SOD-523
-ModelUpdate5=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3.3|NetColor=$009083D2
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
