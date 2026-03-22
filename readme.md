@@ -4,13 +4,13 @@
 
  ## 如何使用
 
-- **对于动手能力不强的同学，我也贴心的准备了焊接装配好的成品电机供大家直接购买：[QDrive成品电机](https://e.tb.cn/h.hvxbdqyMjSPHMGw?tk=HijG4lsnjo0)**
+- **对于动手能力不强的同学，我们也贴心的准备了焊接装配好的成品电机供大家直接购买：[QD4310电机](https://qdrive.com.cn/products/qd4310/)**
 
 1. **制板**：
 
-   - 从[Release](https://github.com/Liu-Curiousity/QDrive-Hardware/releases)页面下载制版文件(gerber)即可发给板厂生产。
+   - 从[Release](https://github.com/Liu-Curiousity/QDrive-Hardware/releases)页面下载制版文件(gerber)即可发给板厂生产(板厚1mm,层压顺序选文件中已有)。
    - 如果你恰好财力雄厚，可以一并下载BOM表和贴片坐标文件，让板厂直接帮你贴片。
-   - 自己贴片的话，由于元器件排布紧凑，没有留下元件编号丝印，要麻烦你对照着源文件贴片啦。
+   - 自己贴片的话，由于元器件排布紧凑，没有留下元件编号丝印，要麻烦你对照着源文件或者嘉立创的焊接辅助工具贴片啦。
 
 2. **组装**：
 
