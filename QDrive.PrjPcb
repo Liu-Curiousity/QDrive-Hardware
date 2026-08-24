@@ -166,115 +166,79 @@ DocumentPath=Project Outputs for QDrive\PCB1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for QDrive\PCB1_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for QDrive\PCB1_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for QDrive\PCB1_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for QDrive\PCB1_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for QDrive\PCB1_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for QDrive\PCB1_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for QDrive\PCB1_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for QDrive\PCB1_Mechanical_Document.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for QDrive\PCB1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for QDrive\PCB1_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for QDrive\PCB1_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for QDrive\PCB1_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for QDrive\PCB1_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for QDrive\PCB1_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for QDrive\PCB1_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for QDrive\PCB1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for FOC-Lite\PCB1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for QDrive\PCB1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for FOC-Lite\Pick Place for PCB1.csv
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for QDrive\Pick Place for PCB1.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -527,31 +491,31 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Test Points For Assembly
-OutputName1=Test Point Report
+OutputType1=Assembly
+OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=Pick Place
-OutputName2=Generates pick and place files
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Wire Bonding Table
+OutputName2=Wire Bonding Table Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-Configuration2_Name1=ForceUpdateSettings
-Configuration2_Item1=False
-Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Continuous Drain Current (Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#18=Name:Protocol,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#19=Name:Memory Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#20=Name:Supplier Footprint,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#21=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:2|Column#23=Name:Power Dissipation (Pd),Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#24=Name:Standoff Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#25=Name:Number Of Adc Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#26=Name:Drain Source Voltage (Vdss),Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#27=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#29=Name:Data Bus Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#31=Name:Memory Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#32=Name:Body,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:2|Column#33=Name:Number Of A/D Converters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#34=Name:Number Of Spi Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#35=Name:Number Of Pwm Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#36=Name:Digikey Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#37=Name:Number Of Timers/Counters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#38=Name:Device Class L2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#39=Name:Octopart,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#40=Name:LCSC Part Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Ambient Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#42=Name:Ram Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#43=Name:BOM名称,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#45=Name:Number Of Usb Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#46=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#47=Name:Number Of I/Os,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#49=Name:Core Architecture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#50=Name:Number Of I2C Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#51=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#52=Name:Number Of Uart Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#53=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#54=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#55=Name:Ambient Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#56=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#57=Name:Duplex,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#58=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#59=Name:Device Class L3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#60=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#61=Name:Device Class L1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#62=Name:Gate Threshold Voltage (Vgs(th)@Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#63=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#64=Name:Number Of Cores,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#65=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#66=Name:Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#67=Name:Automotive,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#68=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#69=Name:Max Junction Temp,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#70=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#71=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#72=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#73=Name:属性,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#74=Name:Drain Source On Resistance (RDS(on)@Vgs,Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|DocumentPath=D:\Altium Designer\QDrive\QD4310\PCB1.PcbDoc
-OutputType3=Assembly
-OutputName3=Assembly Drawings
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+Configuration4_Name1=ForceUpdateSettings
+Configuration4_Item1=False
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Continuous Drain Current (Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#18=Name:Protocol,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#19=Name:Memory Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#20=Name:Supplier Footprint,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#21=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:2|Column#23=Name:Power Dissipation (Pd),Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#24=Name:Standoff Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#25=Name:Number Of Adc Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#26=Name:Drain Source Voltage (Vdss),Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#27=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#29=Name:Data Bus Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#31=Name:Memory Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#32=Name:Body,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:2|Column#33=Name:Number Of A/D Converters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#34=Name:Number Of Spi Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#35=Name:Number Of Pwm Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#36=Name:Digikey Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#37=Name:Number Of Timers/Counters,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#38=Name:Device Class L2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#39=Name:Octopart,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#40=Name:LCSC Part Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Ambient Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#42=Name:Ram Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#43=Name:BOM名称,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#44=Name:Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#45=Name:Number Of Usb Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#46=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#47=Name:Number Of I/Os,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#49=Name:Core Architecture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#50=Name:Number Of I2C Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#51=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#52=Name:Number Of Uart Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#53=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#54=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#55=Name:Ambient Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#56=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#57=Name:Duplex,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#58=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#59=Name:Device Class L3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#60=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#61=Name:Device Class L1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#62=Name:Gate Threshold Voltage (Vgs(th)@Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#63=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#64=Name:Number Of Cores,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#65=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#66=Name:Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#67=Name:Automotive,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#68=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#69=Name:Max Junction Temp,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#70=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#71=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#72=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#73=Name:属性,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#74=Name:Drain Source On Resistance (RDS(on)@Vgs,Id),Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|DocumentPath=D:\Altium Designer\Project\FOC-Lite\PCB1.PcbDoc
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -590,7 +554,7 @@ OutputDefault5=0
 Configuration5_Name1=ForceUpdateSettings
 Configuration5_Item1=False
 Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=BoardID=THSCZJJU|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777218~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=D:\Altium Designer\QDrive\QD4310\PCB1.PcbDoc
+Configuration5_Item2=BoardID=THSCZJJU|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777218~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=D:\Altium Designer\QDrive\QD5710\PCB1.PcbDoc
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
@@ -655,7 +619,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=2048|FormHeight=1106|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CNY|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1706|FormHeight=914|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CNY|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
